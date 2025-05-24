@@ -1,6 +1,6 @@
 # SCANet
 
-This is the repository that contains source code for the [SCANet website](https://scanet-iros2024.github.io/).
+This is the repository that contains source code for the [SCANet website](https://scanet-iros.github.io/).
 
 
 If you find SCANet useful for your work please cite:
